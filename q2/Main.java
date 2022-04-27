@@ -1,7 +1,5 @@
 package q2;
 
-import java.net.CacheRequest;
-
 public class Main {
     public static void main(String[] args) {
         final float CAMPO_FUTEBOL = (float) 8250.0;
